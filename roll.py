@@ -31,3 +31,13 @@ def login():
     role_menu(a)
 
 login()
+a = change_directory()
+a=  delete_directory()
+
+
+class a():
+    def __init__(self:
+        self.a;
+
+    def chagn(self)
+        self.a

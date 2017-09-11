@@ -18,6 +18,12 @@ def change_directory(a):
         print(os.getcwd())
 
     if os.path.isdir(input_path):
+        os.chdir(a + '\\' + input_path)
+        print(os.getcwd())
+        a = os.getcwd()
+
+        print(os.listdir(a))
+
 
 
 
